@@ -1,0 +1,7 @@
+body {
+	min-height: 90vh;
+	/* background: rgb(173,54,205); */
+	background: linear-gradient(191deg, rgba(173,54,205,1) 0%, rgba(255,0,185,1) 49%, rgba(255,156,25,1) 100%);
+	/* background: linear-gradient(191deg, rgb(234, 75, 75) 0%, rgb(199, 75, 234) 49%, rgb(75, 234, 226) 100%); */
+}
+
